@@ -13,7 +13,7 @@ const Navbar = () => {
         setOpenNav(!openNav)
     }
   return (
-  <nav className='sticky bg-[#121212] top-0 left-0 right-0 z-10 w-full px-4 xl:px-8  '>
+  <nav className='sticky bg-white top-0 left-0 right-0 z-10 w-full px-4 xl:px-8  '>
     <div className='flex flex-wrap justify-between items-center mx-auto px-4 py-4 '>
    <p className='text-xl md:text-4xl lg:text-5xl font-bold'>Zaibi</p>
         <div className='hidden md:block md:w-auto'>
