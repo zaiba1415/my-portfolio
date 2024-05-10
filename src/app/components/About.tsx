@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div  className='md:grid md:grid-cols-2 gap-8 py-8 px-4 sm:py-16 xl:px-16 items-center '>
         <div  fade-up-left className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-         <Image  src='/Images/about-image.png'alt={'about'} width={500} height={500}/>
+         <Image  src='/images/about-image.png' alt={'about'} width={500} height={500}/>
         </div>
         <div className='mb-8'>
             <h1 className='font-bold text-5xl mt-4 text-white mb-6'>About Me</h1>
