@@ -8,12 +8,10 @@ const About = () => {
         </div>
         <div className='mb-8'>
             <h1 className='font-bold text-5xl mt-4 text-white mb-6'>About Me</h1>
-            <p  className='text-base text-gray-100 lg:text-lg'>  I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.</p>
+     
+            <p data-aos="fade-up" className='text-base  text-white lg:text-lg'>I am frontend web developer, I am proficient in  front-end  technology, capable of building complete web applications from start to finish. My skill set likely includes languages and frameworks like HTML, CSS, JavaScript,Typescript (and popular libraries like React and Next), as well as server-side language like Node.js.I thrive on bringing ideas to life through clean, efficient code</p>
+            
+
             <div className='py-4'>
             <span className='border-b-4 text-xl border-purple-600 text-[#ADB7BE] font-semibold'>Skills</span>
             <ul  className='mt-4  text-white space-y-1'>

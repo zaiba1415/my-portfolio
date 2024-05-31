@@ -16,7 +16,7 @@ const Contact = () => {
             <MdEmail className="text-purple-500 text-3xl lg:text-5xl
           absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" />
             <FaGreaterThan className="text-purple-500 text-3xl lg:text-5xl absolute transform -translate-x-1/8 -translate-y-1/2 top-1/2 -right-[70%] lg:-right-[85%]"/>
-           <h1 className="text-white absolute transform -translate-x-1/8 -translate-y-1/2 top-1/2 -right-[350%] sm:-right-[540%] md:-right-[590%] lg:-right-[520%] text-[16px] sm:text-[19px] md:text-[21px] lg:text-[22px]">zaiba1415@gmail.com</h1>
+           <h1 className="text-white absolute transform -translate-x-1/8 -translate-y-1/2 top-1/2 -right-[350%] sm:-right-[540%] md:-right-[590%] lg:-right-[520%] text-[14px] sm:text-[13px] md:text-[19px] lg:text-[19px]">zaiba1415@gmail.com</h1>
             </li>
           <li className="bg-[#121212] rounded-full w-16 h-16 lg:w-20 lg:h-20 border-2 border-purple-500 relative">
             <IoMdCall className="text-purple-500 text-3xl lg:text-5xl
